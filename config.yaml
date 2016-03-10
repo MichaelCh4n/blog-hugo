@@ -2,7 +2,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
-baseurl = "http://yoursite.example.com/"
+baseurl = "http://chenyuhang.xyz/"
 canonifyurls = true
 
 [taxonomies]
@@ -10,5 +10,5 @@ canonifyurls = true
   tag = "tags"
 
 [params]
-  description = "Tesla's Awesome Hugo Site"
-  author = "Nikola Tesla"
+  description = "陈的个人站"
+  author = "Michael"
